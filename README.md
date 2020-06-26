@@ -1,12 +1,11 @@
 # Promotoras Legais Populares de Guaíba
 
-> Repositório destinado a criação de um site para as [PLPs](http://themis.org.br/fazemos/promotoras-legais-populares/) de Guaíba - Rio Grande do Sul.
+> Repositório destinado a `criação de um site para as` [PLPs](http://themis.org.br/fazemos/promotoras-legais-populares/) `de Guaíba` - Rio Grande do Sul.
 >
-> O objetivo é disponibilizar uma maneira de contato e divulgação mais rápida e eficaz.
+> O objetivo é <ins>disponibilizar uma maneira de contato e divulgação mais rápida e eficaz</ins>.
 >
 > O site será desenvolvido utilizando ReactJS e o design será feito no Figma.
 
----
 
 ## Instalação
 
@@ -22,8 +21,6 @@ Utilizar o npm para dar start no projeto.
 npm start 
 ```
 
----
-
 ## Roteiro
 
 - [x] Iniciar projeto.
@@ -36,7 +33,6 @@ npm start
 - [ ] Implementar localização.
 - [ ] Reunião com as PLPs para _próximos passos_.
 
----
 
 ## Contribuições
 
