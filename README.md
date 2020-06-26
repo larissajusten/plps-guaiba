@@ -1,6 +1,6 @@
 # Promotoras Legais Populares de Guaíba
 
-> Repositório destinado a `criação de um site para as` [PLPs](http://themis.org.br/fazemos/promotoras-legais-populares/) `de Guaíba` - Rio Grande do Sul.
+> Repositório destinado a `criação de um site` para as [PLPs](http://themis.org.br/fazemos/promotoras-legais-populares/) de Guaíba - Rio Grande do Sul.
 >
 > O objetivo é <ins>disponibilizar uma maneira de contato e divulgação mais rápida e eficaz</ins>.
 >
